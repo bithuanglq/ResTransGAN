@@ -11,7 +11,6 @@ import json
 
 
 from utils import *
-from unetr import *
 from dataloader import *
 from TransBTS.TransBTS_downsample8x_skipconnection import My_TransBTS
 
