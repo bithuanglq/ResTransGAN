@@ -1,10 +1,12 @@
 # ResTransGAN
 Core code for " Transformer-based Generative Adversarial Network for Brain Tumor Segmentation"
-
-
-
+  
+  
+  
 step 1:  Setup  
+```python
 pip freeze > requirements.txt
+```  
 
 step 2:  Training  
 ```python
