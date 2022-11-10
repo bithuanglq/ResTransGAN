@@ -3,13 +3,17 @@ Core code for " Transformer-based Generative Adversarial Network for Brain Tumor
 
 
 
-step 1:  Setup
+step 1:  Setup  
 pip freeze > requirements.txt
 
-step 2:  Training
+step 2:  Training  
+```python
 tmux
 conda activate your_env_name
 python nohup.py
+```
 
-step 3:  Inference
+step 3:  Inference  
+```python
 CUDA_VISIBLE_DEVICES=0,1 python code/inference_DP.py
+```
