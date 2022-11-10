@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import os
-# os.chdir('/home/hlq/Project/BraTS/code')
+# os.chdir('your_favorate_workpath')
 print('Current workspace:\t',os.getcwd())
 
 if True:
