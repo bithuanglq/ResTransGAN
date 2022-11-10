@@ -1,5 +1,5 @@
 # ResTransGAN
-Core code for " Transformer-based Generative Adversarial Network for Brain Tumor Segmentation"
+Core code for paper "A Transformer-based Generative Adversarial Network for Brain Tumor Segmentation"
   
   
   
