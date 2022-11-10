@@ -24,7 +24,7 @@ from TransBTS.TransBTS_downsample8x_skipconnection import My_TransBTS
 
 
 # DDP 版本   
-# 指令： nohup python -m torch.distributed.launch --nproc_per_node=4 /home/hlq/Project/BraTS/code/train_v2_DDP.py > nohup_v2.out 2>&1 &
+# 指令： nohup python -m torch.distributed.launch --nproc_per_node=4 your_python_file_path > nohup.out 2>&1 &
 
 # Hyper parameters
 BATCH_SIZE = 1
