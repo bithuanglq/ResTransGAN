@@ -18,11 +18,8 @@ import SimpleITK as sitk
 
 from dataloader import *
 from metirc import *
-from unet import *
 from discriminator import *
 from utils import *
-from unetr import *
-from label_transformer_network import *
 from TransBTS.TransBTS_downsample8x_skipconnection import My_TransBTS
 
 
