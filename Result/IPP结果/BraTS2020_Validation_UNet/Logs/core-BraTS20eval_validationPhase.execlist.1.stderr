@@ -1,0 +1,402 @@
+Notice: this is an old version of CaPTk. The latest release is available with the command:
+	module load captk/1.9.0
+
+Currently Loaded Modulefiles:
+ 1) arch_specific                       24) sbiaDti/253                      
+ 2) slicer/4.8.1                        25) nifticlib/2.0.0                  
+ 3) mico/1.0.0                          26) freesurfer/5.3.0                 
+ 4) sge/8.1.9-1                         27) afni/17.2.10                     
+ 5) gcc/5.2.0                           28) boost-numeric-bindings/20081116  
+ 6) jython/2.5.3                        29) mricron/7.7.12                   
+ 7) texlive/2016                        30) odvba/3.0                        
+ 8) doxygen/1.8.9.1                     31) dramms/1.4.2                     
+ 9) qt/5.11.1                           32) bct-cpp/396                      
+10) ants/2.3.1                          33) swig/3.0.5                       
+11) dependency_bundle/3817              34) scplearn/1.0.0                   
+12) libra/1.0.4                         35) gdcm/2.6.1                       
+13) dicom3tools/1.00.snapshot.20110207  36) dcmtk/3.6.3                      
+14) dtk/0.6                             37) imagej/1.49v                     
+15) mass/1.1.1                          38) mars/2.2.2                       
+16) trackvis/0.6.0.1                    39) muse/3.0.5                       
+17) minc/2.0.13                         40) python/anaconda/3                
+18) mipav/7.2.0                         41) captk/1.7.2                      
+19) camino/1176                         42) openmpi/centos7                  
+20) matlab/R2018A                       43) base-centos7                     
+21) fsl/5.0.11                          44) base                             
+22) weka/3.7.5                          45) captk/1.8.1                      
+23) sbiaUtilities/0.3.3                 
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_0.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_1.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_2.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_3.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_4.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_5.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_6.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_7.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_8.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_9.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_10.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_11.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_12.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_13.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_14.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_15.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_16.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_17.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_18.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_19.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_20.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_21.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_22.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_23.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_24.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_25.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_26.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_27.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_28.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_29.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_30.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_31.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_32.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_33.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_34.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_35.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_36.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_37.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_38.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_39.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_40.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_41.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_42.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_43.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_44.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_45.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_46.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_47.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_48.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_49.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_50.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_51.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_52.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_53.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_54.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_55.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_56.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_57.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_58.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_59.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_60.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_61.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_62.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_63.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_64.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_65.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_66.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_67.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_68.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_69.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_70.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_71.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_72.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_73.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_74.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_75.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_76.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_77.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_78.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_79.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_80.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_81.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_82.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_83.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_84.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_85.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_86.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_87.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_88.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_89.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_90.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_91.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_92.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_93.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_94.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_95.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_96.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_97.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_98.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_99.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_100.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_101.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_102.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_103.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_104.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_105.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_106.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_107.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_108.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_109.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_110.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_111.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_112.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_113.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_114.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_115.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_116.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_117.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_118.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_119.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_120.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_121.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_122.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_123.nii.gz
+++ 3dcalc: AFNI version=AFNI_17.2.10 (Aug 30 2017) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /scratch/ipp/SGE_1891287/tmp.Dh29NRzzjb/temp_mask_124.nii.gz
